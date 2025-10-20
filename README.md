@@ -1,5 +1,6 @@
-Machine Learning for Early Detection of Meningitis
+Machine Learning for Early Detection of Meningitis:
 A stacked ensemble learning framework for predicting meningitis in ER and ICU patients using MIMIC-III electronic health record data.
+
 Overview
 This project implements an advanced machine learning approach to identify meningitis risk early from structured EHR data. The model achieves exceptional performance (AUC: 0.9637 on standard testing, 0.9472 on challenging diagnostic scenarios) by combining Random Forest, LightGBM, and Deep Neural Networks through ensemble learning.
 Key Features
